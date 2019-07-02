@@ -1,0 +1,10 @@
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\obj\Debug\FoodAppraisalApplication.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\obj\Debug\FoodAppraisalApplication.FormFoodAppraisal.resources
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\obj\Debug\FoodAppraisalApplication.Properties.Resources.resources
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\obj\Debug\FoodAppraisalApplication.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\obj\Debug\FoodAppraisalApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\bin\Debug\FoodAppraisalApplication.exe.config
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\bin\Debug\FoodAppraisalApplication.exe
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\bin\Debug\FoodAppraisalApplication.pdb
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\obj\Debug\FoodAppraisalApplication.exe
+C:\Users\Dylan\Desktop\FoodAppraisalApp\FoodAppraisalApplication\FoodAppraisalApplication\obj\Debug\FoodAppraisalApplication.pdb

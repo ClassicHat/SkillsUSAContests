@@ -1,0 +1,7 @@
+C:\Users\Dylan\Desktop\SkillsUSA\SkillsUSADistrictsV2\SkillsUSADistrictsV2\bin\Debug\SkillsUSADistrictsV2.exe.config
+C:\Users\Dylan\Desktop\SkillsUSA\SkillsUSADistrictsV2\SkillsUSADistrictsV2\bin\Debug\SkillsUSADistrictsV2.exe
+C:\Users\Dylan\Desktop\SkillsUSA\SkillsUSADistrictsV2\SkillsUSADistrictsV2\bin\Debug\SkillsUSADistrictsV2.pdb
+C:\Users\Dylan\Desktop\SkillsUSA\SkillsUSADistrictsV2\SkillsUSADistrictsV2\obj\Debug\SkillsUSADistrictsV2.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\SkillsUSA\SkillsUSADistrictsV2\SkillsUSADistrictsV2\obj\Debug\SkillsUSADistrictsV2.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\SkillsUSA\SkillsUSADistrictsV2\SkillsUSADistrictsV2\obj\Debug\SkillsUSADistrictsV2.exe
+C:\Users\Dylan\Desktop\SkillsUSA\SkillsUSADistrictsV2\SkillsUSADistrictsV2\obj\Debug\SkillsUSADistrictsV2.pdb

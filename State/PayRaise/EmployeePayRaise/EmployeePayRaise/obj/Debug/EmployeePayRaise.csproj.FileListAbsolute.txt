@@ -1,0 +1,10 @@
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\bin\Debug\EmployeePayRaise.exe.config
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\bin\Debug\EmployeePayRaise.exe
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\bin\Debug\EmployeePayRaise.pdb
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\obj\Debug\EmployeePayRaise.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\obj\Debug\EmployeePayRaise.FormPayRaise.resources
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\obj\Debug\EmployeePayRaise.Properties.Resources.resources
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\obj\Debug\EmployeePayRaise.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\obj\Debug\EmployeePayRaise.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\obj\Debug\EmployeePayRaise.exe
+C:\Users\Dylan\Desktop\PayRaise\EmployeePayRaise\EmployeePayRaise\obj\Debug\EmployeePayRaise.pdb

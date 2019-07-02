@@ -1,0 +1,10 @@
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\bin\Debug\FoodProgramApplication.exe.config
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\bin\Debug\FoodProgramApplication.exe
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\bin\Debug\FoodProgramApplication.pdb
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\obj\Debug\FoodProgramApplication.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\obj\Debug\FoodProgramApplication.FormFoodApp.resources
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\obj\Debug\FoodProgramApplication.Properties.Resources.resources
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\obj\Debug\FoodProgramApplication.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\obj\Debug\FoodProgramApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\obj\Debug\FoodProgramApplication.exe
+C:\Users\Dylan\Desktop\FoodApp\FoodProgramApplication\FoodProgramApplication\obj\Debug\FoodProgramApplication.pdb

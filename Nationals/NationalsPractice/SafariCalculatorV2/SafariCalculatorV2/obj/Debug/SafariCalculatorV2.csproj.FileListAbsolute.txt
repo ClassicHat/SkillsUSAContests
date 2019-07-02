@@ -1,0 +1,10 @@
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\bin\Debug\SafariCalculatorV2.exe.config
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\bin\Debug\SafariCalculatorV2.exe
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\bin\Debug\SafariCalculatorV2.pdb
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\obj\Debug\SafariCalculatorV2.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\obj\Debug\SafariCalculatorV2.FormSafariCalc.resources
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\obj\Debug\SafariCalculatorV2.Properties.Resources.resources
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\obj\Debug\SafariCalculatorV2.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\obj\Debug\SafariCalculatorV2.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\obj\Debug\SafariCalculatorV2.exe
+C:\Users\Dylan\Desktop\NationalsPractice\SafariCalculatorV2\SafariCalculatorV2\obj\Debug\SafariCalculatorV2.pdb

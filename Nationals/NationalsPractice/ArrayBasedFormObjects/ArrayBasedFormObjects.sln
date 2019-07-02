@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBasedFormObjects", "ArrayBasedFormObjects\ArrayBasedFormObjects.csproj", "{4FEE2BB0-4BF9-40E4-AFA7-F162A817234A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEE2BB0-4BF9-40E4-AFA7-F162A817234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEE2BB0-4BF9-40E4-AFA7-F162A817234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEE2BB0-4BF9-40E4-AFA7-F162A817234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEE2BB0-4BF9-40E4-AFA7-F162A817234A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCC2FEF-BA4D-4C1D-994A-0ABC78D72C91}
+	EndGlobalSection
+EndGlobal

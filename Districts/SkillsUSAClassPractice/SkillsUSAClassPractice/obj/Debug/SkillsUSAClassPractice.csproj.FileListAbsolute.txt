@@ -1,0 +1,14 @@
+E:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\bin\Debug\SkillsUSAClassPractice.exe.config
+E:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\bin\Debug\SkillsUSAClassPractice.exe
+E:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\bin\Debug\SkillsUSAClassPractice.pdb
+E:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.csprojAssemblyReference.cache
+E:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.csproj.CoreCompileInputs.cache
+E:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.exe
+E:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.pdb
+D:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\bin\Debug\SkillsUSAClassPractice.exe.config
+D:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\bin\Debug\SkillsUSAClassPractice.exe
+D:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\bin\Debug\SkillsUSAClassPractice.pdb
+D:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.csprojAssemblyReference.cache
+D:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.csproj.CoreCompileInputs.cache
+D:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.exe
+D:\SkillsUSA\SkillsUSAClassPractice\SkillsUSAClassPractice\obj\Debug\SkillsUSAClassPractice.pdb
